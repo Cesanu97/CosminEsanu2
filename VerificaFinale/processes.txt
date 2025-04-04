@@ -1,0 +1,11 @@
+S 202 2709 8 2 sys-cleaner
+U 101 2908 4 3 word.exe
+S 205 3212 10 0 scheduler
+U 103 2610 5 2 mail.gui
+S 204 3011 7 3 network-manager
+U 102 3209 3 5 browser
+S 201 2408 9 1 kernel-task
+U 104 3611 2 6 editor
+S 203 3410 6 4 system-monitor
+X 999 3006 5 3 unknown
+U 1001 -5908 4 2 buggy.exe
